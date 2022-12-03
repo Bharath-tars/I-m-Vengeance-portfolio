@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="With=device-width, initial-scale=1.0">
+        <title>My website page design</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+</head>
+    <body>
+        <section class="header">
+        <nav>
+ <a href="index.html"><img src="images/logo (2).png"></a> 
+ <div class="nav-links" id="navlinks">
+    <i class="fa fa-times" onclick="hidemenu()"></i>
+<ul>
+    <li><a href="">HOME </a> </li>
+    <li><a href="">COURSE </a> </li>
+    <li><a href="">ABOUT</a> </li>
+    <li><a href="">BLOG </a> </li>
+    <li><a href="">CONTACT </a> </li>
+</ul>
+</div>       
+<i class="fa fa-bars" onclick="Showmenu()"></i>   
+    </nav>
+<div class="text-box">
+    <h1>I'M VENGEANCE </h1>
+    <p>
+        Yup that's true. My official webpage is here. By scrolling down,
+         you can see all of my Respositories.<br> Now you are good to go.
+    </p>
+    <a href="" class="hero-btn">Visit me to know more</a>
+</div>
+</section>
+
+<!----------Passion-------------->
+<section class="Course">
+    <h1>My Perspective on Different Courses</h1>
+    <p>
+        My journey towards programming began with a lot of uncertainty around 
+        what, where, and how of various technologies.<br> I thus considered
+         providing some road maps, reference links, and alternative coding sites
+          for beginners. NJOY PANDAGOW!!
+    </p>
+    <div class="row">
+     <div class="Course-col">
+     <h3>Scratch</h3>
+    <p>
+    Coloumn under construction(Lorem ipsum dolor sit amet. Eum quia quisquam aut amet temporibus cum rerum ipsum! At sint laborum eum perspiciatis dolores est omnis tenetur ut reiciendis sunt)
+    </p>
+    </div>
+    <div class="Course-col">
+        <h3>C/C++</h3>
+       <p>
+       Coloumn under construction(Lorem ipsum dolor sit amet. Eum quia quisquam aut amet temporibus cum rerum ipsum! At sint laborum eum perspiciatis dolores est omnis tenetur ut reiciendis sunt)
+       </p>
+       </div>
+       <div class="Course-col">
+        <h3>Web Development</h3>
+       <p>
+       Coloumn under construction(Lorem ipsum dolor sit amet. Eum quia quisquam aut amet temporibus cum rerum ipsum! At sint laborum eum perspiciatis dolores est omnis tenetur ut reiciendis sunt)
+       </p>
+       </div>
+    </div>
+    <div class="row">
+       <div class="Course-col">
+        <h3>App Development</h3>
+       <p>
+       Coloumn under construction(Lorem ipsum dolor sit amet. Eum quia quisquam aut amet temporibus cum rerum ipsum! At sint laborum eum perspiciatis dolores est omnis tenetur ut reiciendis sunt)
+       </p>
+       </div>
+       <div class="Course-col">
+        <h3>Java</h3>
+       <p>
+       Coloumn under construction(Lorem ipsum dolor sit amet. Eum quia quisquam aut amet temporibus cum rerum ipsum! At sint laborum eum perspiciatis dolores est omnis tenetur ut reiciendis sunt)
+       </p>
+       </div>
+       <div class="Course-col">
+        <h3>Python</h3>
+       <p>
+       Coloumn under construction(Lorem ipsum dolor sit amet. Eum quia quisquam aut amet temporibus cum rerum ipsum! At sint laborum eum perspiciatis dolores est omnis tenetur ut reiciendis sunt)
+       </p>
+       </div>
+    </div>
+    <div class="row">
+       <div class="Course-col">
+        <h3>Machine Learning</h3>
+       <p>
+       Coloumn under construction(Lorem ipsum dolor sit amet. Eum quia quisquam aut amet temporibus cum rerum ipsum! At sint laborum eum perspiciatis dolores est omnis tenetur ut reiciendis sunt)
+       </p>
+       </div>
+       <div class="Course-col">
+        <h3>SQL</h3>
+       <p>
+       Coloumn under construction(Lorem ipsum dolor sit amet. Eum quia quisquam aut amet temporibus cum rerum ipsum! At sint laborum eum perspiciatis dolores est omnis tenetur ut reiciendis sunt)
+       </p>
+       </div>
+       <div class="Course-col">
+        <h3>Artificial Intelligence</h3>
+       <p>
+       Coloumn under construction(Lorem ipsum dolor sit amet. Eum quia quisquam aut amet temporibus cum rerum ipsum! At sint laborum eum perspiciatis dolores est omnis tenetur ut reiciendis sunt)
+       </p>
+       </div>
+    </div>
+</section>
+<!---------About------->
+<section class="ABOUT">
+  <h1>
+       My Bio-Data
+  </h1>
+  <p> 
+    Hello there, Bharath Sudarsanam is my name. 
+    I attend MLR INSTITUTE OF TECHNOLOGY as a collage student. <br>
+    I really believe that the only thing that drove me on was my love for the work that I'm doing. 
+    I'm a physics nut, a coding wiz, and a chick cheese. 
+   <br>
+      Since I am a victim of low-graded collage as well, I have opted to pretend that this is the case rather than accepting the situation as it is.
+     <br>  In all honesty, nobody would want to be stuck there. Okay, then see you later!
+  </p>
+  <a href="" class="hero-btn">Click to know more</a>
+  <h2>
+    My Tribe
+  </h2>
+  <p>
+   A friend is someone who respects a person's abilities and aids or motivates them to act morally and avoid any sort of problems. An inside look at my family
+</p>
+<div class="row"> 
+<div class="ABOUT-col">
+<img src="images/tribe1.jpg">
+<div class="layer">
+    <h3>AnnualDay 2k22</h3>
+</div>
+</div>
+<div class="ABOUT-col">
+    <img src="images/tribe2.jpg">
+    <div class="layer">
+    <h3>    Ecstacy</h3>
+</div>
+</div>
+<div class="ABOUT-col">
+    <img src="images/tribe3.jpg">
+    <div class="layer">
+    <h3> Giri Bday</h3>
+</div>
+</div>
+</div>
+</section>
+<!---Work expererience-->
+<section class="Workex">
+    <h1>My Work Experience</h1>
+    <p> Your aspirations are really high.
+        yet everyone's journey begins the same way.
+    </p>
+    <div class="row">
+        <div class="work-col">
+         <img src="images/imun.jpg" height="200" width="100"> 
+         <h3>IMUN</h3>  
+         <P>
+        Campus Ambassador<br>Sept 2022 - Current
+         </P>
+        </div>
+        <div class="work-col">
+            <img src="images/mlr.jpeg" height="200"width="100"> 
+            <h3>MLRCIE</h3>  
+            <P>
+           Member of Technical and Product Development<br>July 2022 - Current
+            </P>
+           </div>
+           <div class="work-col">
+            <img src="images/nit.jpg" height="200" width="100"> 
+            <h3>Naresh IT</h3>  
+            <P>
+           Lab Coordinator<br>Oct 2021 - Nov 2021
+            </P>
+           </div>
+    </div>
+</section>
+<!-----CONTACT----------------->
+<section class="Contact">
+    <h1>
+        I am avaliable for freelancing
+    </h1>
+    <P> Let's get together to learn & make some cool stuff</P>
+    <a href=""class="hero-btn">Hire Me</a>
+</section>
+<!-------Commentbox------------>
+<div class="comment">
+<h2>
+    How did you find the home page? Wanna suggest any changes? Please comment.
+
+</h2>
+<form class="comment-form" onsubmit="sendEmail(); reset();return false;">
+<input type="Text" id="name" placeholder="Enter name" required>
+<input type="email" id="email" placeholder="Enter email" required>
+<input type="One phrase that aptly reflects the home page" id="word" placeholder="One phrase that aptly reflects the home page" required>
+<textarea rows="5" id="message" placeholder="Your comment">
+</textarea>
+<button type="submit" class="hero-btn com-btn">Post comment</button>
+</form>
+</div>
+<script src="https://smtpjs.com/v3/smtp.js"></script>
+<script>
+function sendEmail(){
+    Email.send({
+    Host : "smtp.elasticemail.com",
+    Username : "bharath.sudarsanam04@gmail.com",
+    Password : "6F8566F13B3F4D76C1896003EF9ECB149822",
+    To : '21R21A66C3@mlrinstitutions.ac.in',
+    From : document.getElementById("email").value,
+    Subject : "New comment",
+    Body : "Name: " + document.getElementById("name").value
+        + "<br> Email: " + document.getElementById("email").value
+        + "<br> Word: " + document.getElementById("word").value
+        + "<br> Comment: " + document.getElementById("messsage").value
+ }).then(
+  message => alert("Message sent successfully")
+);
+
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--------Footer--------->
+<section class="footer" >
+    <h3>
+        About website 
+    </h3>
+    <p>
+        I created this website solely to evaluate my abilities and of course to kill my random ass time
+       <br>Copyright ©2022 All rights reserved.<br>
+    </p>
+    <div class="wrapper">
+        <div class="button">
+           <div class="icon">
+              <i class="fab fa-discord">
+              </i>
+           </div>
+           <a href="https://discord.com/channels/@me" target="_blank">
+
+           <span>Discord</span></a>
+        </div>
+        <div class="button">
+           <div class="icon">
+              <i class="fab fa-twitter">
+                              </i>
+           </div>
+           <a href="https://twitter.com/itzmebharath300" target="_blank">
+
+           <span>Twitter</span></a>
+        </div>
+        <div class="button">
+           <div class="icon">
+              <i class="fab fa-instagram">
+              </i>
+           </div>
+           <a href="https://www.instagram.com/__itz.me.bharath__/" target="_blank">
+        <span>Instagram</span></a>
+        </div>
+        <div class="button">
+           <div class="icon">
+              <i class="fab fa-codepen">
+              </i>
+           </div>
+           <a href="https://codepen.io/your-work" target="_blank">
+
+           <span>Codepen</span></a>
+        </div>
+        <div class="button">
+           <div class="icon">
+              <i class="fab fa-github">
+              </i>
+           </div>
+           <a href="https://github.com/Bharath-tars" target="_blank">
+
+           <span>Github</span></a>
+        </div>
+     <div class="button">
+        <div class="icon">
+           <i class="fab fa-spotify">
+           </i>
+        </div>
+        <a href="https://open.spotify.com/collection/playlists" target="_blank">
+
+        <span>Spotify</span></a>
+     </div>
+  </div>
+    <p>
+        
+      Made with ❤ to you by Bharath sudarsanam
+    </p>
+</section>
+<!----------Java script for toggle menu-------->
+<script>
+   var navlinks = document.getElementById("navlinks");
+   function Showmenu(){
+    navlinks.style.right ="0";
+   }
+   function hidemenu(){
+    navlinks.style.right="-200px";
+   }
+</script>
+<!-------Audio---------->
+<audio controls autoplay loop>
+    <sources src="Infraction - Just Evil [Cyberpunk Gaming Trailer].mp3"  type="audio/mp3">
+</audio>
+</body>
+</html>
